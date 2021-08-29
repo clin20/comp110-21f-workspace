@@ -1,5 +1,13 @@
-# TODO: Write docstring here
+""'Program gets input and compliments you.'""
 
-# TODO: Initialize __author__ variable here
+__author__: str = "730508262"
 
-# TODO: Implement your program logic here
+name_input: str = input("What is your name? ")
+
+print(name_input)
+
+print(name_input + " is a great name.")
+
+print("Continue working hard " + name_input + "!")
+
+print("Wow, " + name_input + ", I am so proud of you!")
