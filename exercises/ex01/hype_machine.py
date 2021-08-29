@@ -1,4 +1,4 @@
-""'Program gets input and compliments you.'""
+"""Program gets input and compliments you."""
 
 __author__: str = "730508262"
 
